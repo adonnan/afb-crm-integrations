@@ -1,6 +1,5 @@
 # Pardot Integration 
 ## Layout Template Form Tab
-### (with console messages)
 
 ### Change these two things: https://your-wp-domain.com and PASTE_YOUR_API_KEY_HERE
 ```
