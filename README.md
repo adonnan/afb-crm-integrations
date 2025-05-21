@@ -6,3 +6,4 @@ Everything you need to get started is in this folder:
 
 ### This solution currently relies on Gravity forms and Advanced Form Blocker Plugin
 [Advanced Form Blocker](https://github.com/adonnan/advanced-form-blocker)
+[Gravity Forms](https://gravityforms.pxf.io/c/6238201/1187943/7938)
